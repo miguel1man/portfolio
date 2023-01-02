@@ -17,10 +17,10 @@ cascade:
 - [Anuncio de ganadores](https://twitter.com/andinodao/status/1586847043326132224)
 
 ## Objetivo del proyecto
-Las grandes empresas a menudo tienen dificultades para entender el comportamiento de sus clientes y ofrecer una experiencia personalizada. Fidelizame es una app que utiliza la tecnología blockchain para resolver este problema. 
+Las grandes empresas a menudo tienen dificultades para entender el comportamiento de sus clientes y ofrecer una experiencia personalizada. Fidelizame es una app que utiliza la tecnología **blockchain** para resolver este problema. 
 
 ## Solución propuesta
-Al recopilar y analizar la información del comportamiento de los consumidores, las empresas pueden conocer mejor a sus clientes y adaptar sus productos y servicios a sus necesidades y deseos. Además, la tecnología blockchain proporciona una capa adicional de seguridad y privacidad para los datos de los consumidores. Los usuarios pueden acumular tokens ERC20 a medida que utilizan la app y canjearlos por recompensas o descuentos en productos y servicios de las empresas.
+Al recopilar y analizar la información del comportamiento de los consumidores, las empresas pueden conocer mejor a sus clientes y adaptar sus productos y servicios a sus necesidades y deseos. Además, la tecnología blockchain proporciona una capa adicional de seguridad y privacidad para los datos de los consumidores. Los usuarios pueden acumular **tokens ERC-20** a medida que utilizan la app y canjearlos por recompensas o descuentos en productos y servicios de las empresas.
 
 ## Repositorio del proyecto
 - [Repositorio en Github](https://github.com/MarvoloV/fidelizame-app)
