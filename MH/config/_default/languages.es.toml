@@ -1,0 +1,24 @@
+languageCode = "es"
+languageName = "Spanish"
+displayName = ":flag-pe:"
+isoCode = "es"
+weight = 1
+rtl = false
+
+title = "MH"
+# logo = "img/logo.jpg"
+description = "Portafolio de Miguel Angel Huamán."
+copyright = "&copy; 2023"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Miguel Angel Huamán"
+  image = "img/author.jpg"
+  headline = "Autor"
+  bio = "Desarrollador"
+  links = [
+    { twitter = "https://twitter.com/miguel1man/" },
+    { linkedin = "https://linkedin.com/in/miguel1man/" },
+    { github = "https://github.com/miguel1man/" }
+  ]
