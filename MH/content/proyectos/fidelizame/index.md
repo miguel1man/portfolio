@@ -1,6 +1,6 @@
 ---
 title: "Fidelizame"
-date: 2022-11-09
+date: 2022-10-29
 description: "Proyecto ganador de hackathon."
 summary: "Proyecto ganador de hackathon."
 tags: ["hackathon", "TypeScript", "Trabajo en equipo", "Solidity", "dApp", "React"]
