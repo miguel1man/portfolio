@@ -1,8 +1,8 @@
 ---
-title: "Paginas web desarrolladas con WordPress"
+title: "Páginas web desarrolladas con WordPress"
 date: 2022-08-31
-description: "Paginas web desarrolladas con WordPress."
-summary: "Paginas web desarrolladas con WordPress."
+description: "Páginas web desarrolladas con WordPress."
+summary: "Páginas web desarrolladas con WordPress."
 tags: ["WordPress", "Elementor", "Shopify", "Trabajo en equipo"]
 ---
 
