@@ -1,5 +1,5 @@
 ---
-title: "Hi! 👋"
+title: "Hi 👋"
 description: "Portfolio"
 ---
 

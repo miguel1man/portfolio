@@ -8,7 +8,7 @@ cascade:
 ---
 
 {{< lead >}}
-Project portafolio
+Portfolio
 {{< /lead >}}
 
 ---
