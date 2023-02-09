@@ -11,8 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Proyectos"
-  pageRef = "proyectos"
+  name = "Projects"
+  pageRef = "projects"
   weight = 10
 
 # -- Footer Menu --

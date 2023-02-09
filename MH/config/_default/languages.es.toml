@@ -7,7 +7,7 @@ rtl = false
 
 title = "MH"
 # logo = "img/logo.jpg"
-description = "Portafolio de Miguel Angel Huamán."
+description = "Portfolio Miguel Angel Huamán."
 copyright = "&copy; 2023"
 
 dateFormat = "2 January 2006"
@@ -15,8 +15,8 @@ dateFormat = "2 January 2006"
 [author]
   name = "Miguel Angel Huamán"
   image = "img/author.jpg"
-  headline = "Autor"
-  bio = "Desarrollador"
+  headline = "Author"
+  bio = "Developer"
   links = [
     { twitter = "https://twitter.com/miguel1man/" },
     { linkedin = "https://linkedin.com/in/miguel1man/" },
