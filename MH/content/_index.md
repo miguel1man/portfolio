@@ -1,12 +1,10 @@
 ---
-title: "Hola 👋"
-description: "Página web personal."
+title: "Hi! 👋"
+description: "Portfolio"
 ---
 
-Soy Miguel Angel Huamán, desarrollador frontend. 
+I'm Miguel Angel, a full-stack developer with a passion for creating interfaces. 
 
-Antes de la pandemia me dedicaba a la construcción civil. Hoy, luego de aprender programación de manera autodidacta, trabajo construyendo aplicaciones y automatizaciones. 
+The transformation of code from idea to functional product never ceases to amaze me. As a technology enthusiast, I am constantly on the lookout for chances to learn and work with other professionals in meetups and hackathons.
 
-Me encanta ver cómo se renderiza una interfaz, me parece mágico ese breve instante cuando el código deja de ser una idea y se convierte en algo tangible, en algo real.
-
-Soy un apasionado de la tecnología y estoy siempre buscando nuevas oportunidades para aprender y colaborar con otros profesionales en eventos como meetups y hackathons. 
+Prior to the pandemic, I worked in civil construction, but through self-study I have gained expertise in my programming skills and am now well-versed in app and automation development.

@@ -1,6 +1,6 @@
 ---
-title: "Proyectos"
-description: "Portafolio de proyectos personales."
+title: "Projects"
+description: "Portafolio"
 
 cascade:
   showEdit: false
@@ -8,7 +8,7 @@ cascade:
 ---
 
 {{< lead >}}
-Portafolio de proyectos
+Project portafolio
 {{< /lead >}}
 
 ---

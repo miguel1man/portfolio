@@ -1,9 +1,9 @@
 ---
 title: "Fidelizame"
 date: 2022-10-29
-description: "Proyecto ganador de hackathon de Andino DAO."
-summary: "Proyecto ganador de hackathon."
-tags: ["hackathon", "TypeScript", "Trabajo en equipo", "Solidity", "dApp", "React"]
+description: "Winning Hackathon Project."
+summary: "Winning Hackathon Project."
+tags: ["Hackathon", "TypeScript", "Solidity", "dApp", "React"]
 showDateUpdated: true
 xml: false
 
@@ -12,26 +12,26 @@ cascade:
   showSummary: true
 ---
 
-## Proyecto ganador de hackathon
+## Winning Hackathon Project
 - [Latam WebX Hackathon](https://www.andinodao.org/hackathon)
-- [Anuncio de ganadores](https://twitter.com/andinodao/status/1586847043326132224)
+- [Winner Announcement](https://twitter.com/andinodao/status/1586847043326132224)
 
-## Objetivo del proyecto
-Las grandes empresas a menudo tienen dificultades para entender el comportamiento de sus clientes y ofrecer una experiencia personalizada. Fidelizame es una app que utiliza la tecnología **blockchain** para resolver este problema. 
+## Project Objective
+Large companies often struggle to understand their customers' behavior and offer a personalized experience. Fidelizame is an app that uses blockchain technology to solve this problem.
 
-## Solución propuesta
-Al recopilar y analizar la información del comportamiento de los consumidores, las empresas pueden conocer mejor a sus clientes y adaptar sus productos y servicios a sus necesidades y deseos. Además, la tecnología blockchain proporciona una capa adicional de seguridad y privacidad para los datos de los consumidores. Los usuarios pueden acumular **tokens ERC-20** a medida que utilizan la app y canjearlos por recompensas o descuentos en productos y servicios de las empresas.
+## Proposed Solution
+By collecting and analyzing consumer behavior information, companies can better understand their customers and tailor their products and services to their needs and desires. Additionally, the blockchain technology provides an additional layer of security and privacy for consumer data. Users can accumulate ERC-20 tokens as they use the app and redeem them for rewards or discounts on products and services from companies.
 
-## Repositorio del proyecto
-- [Repositorio en Github](https://github.com/MarvoloV/fidelizame-app)
-- [Deploy](https://fidelizame.vercel.app/)
+## Project Repository
+- [Github](https://github.com/MarvoloV/fidelizame-app)
+- [Deployment](https://fidelizame.vercel.app/)
 
-## Librerías
+## Libraries 
 - Next.js
 - React.js
 - Tailwind CSS
 - Truffle
 - Ethers
 
-## Publicaciones en RRSS
-- [Post en LinkedIn personal](https://www.linkedin.com/posts/miguel1man_hackathon-blockchain-tecnologaeda-activity-6993980785577885696-bws-?utm_source=share&utm_medium=member_desktop)
+## Social Media Posts
+- [Personal LinkedIn Post](https://www.linkedin.com/posts/miguel1man_hackathon-blockchain-tecnologaeda-activity-6993980785577885696-bws-?utm_source=share&utm_medium=member_desktop)

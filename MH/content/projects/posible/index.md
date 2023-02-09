@@ -1,30 +1,32 @@
 ---
 title: "poSíble"
 date: 2022-09-13
-description: "Proyecto final para Ethereum Developer Program de Platzi."
-summary: "Proyecto final para Platzi."
-tags: ["Platzi", "Solidity", "Crowdfunding", "Trabajo en equipo", "React"]
+description: "Final Project for Platzi and Ethereum Foundation"
+summary: "Final Project for Platzi and Ethereum Foundation"
+tags: ["Platzi", "Solidity", "Crowdfunding", "React"]
 ---
 
-## Proyecto final para Platzi y Ethereum Foundation
-- ["Ethereum Developer Program" de Platzi](https://platzi.com/blog/inicia-el-ethereum-developer-program-en-platzi/)
+## Final Project for Platzi and Ethereum Foundation
+- ["Ethereum Developer Program" by Platzi](https://platzi.com/blog/inicia-el-ethereum-developer-program-en-platzi/)
 
-## Objetivo del proyecto
-Luego de la pandemia, muchos estudiantes ya no tienen acceso a educación técnica y superior debido a la falta de fondos. Muchos estudiantes tienen dificultades para pagar sus estudios y no tienen acceso a préstamos o becas. Esto puede limitar sus oportunidades y su potencial para tener éxito en sus carreras. PoSÍble es una plataforma de **crowdfunding educativo** que busca resolver este problema.
+## Project Objective
 
-## Solución propuesta
-Posíble utiliza **contratos inteligentes** para garantizar la transparencia y confiabilidad en la gestión de los fondos donados. Los donantes pueden elegir a qué estudiantes desean apoyar y seguir el progreso de sus estudios a través de la plataforma. Al proporcionar una forma de obtener fondos para la educación, PoSÍble ayuda a garantizar que los estudiantes tengan las oportunidades y el apoyo que necesitan para tener éxito en sus carreras.
+After the pandemic, many students no longer have access to technical and higher education due to a lack of funds. Many students struggle to pay for their studies and do not have access to loans or scholarships. This can limit their opportunities and potential for success in their careers. PoSÍble is an educational crowdfunding platform that seeks to resolve this problem.
 
-## Repositorio del proyecto
-- [Repositorio en Github](https://github.com/Redf0xD/poSIble)
-- [Deploy](https://posible-eth.vercel.app/)
+## Proposed Solution
 
-## Funcionamiento de la app
-- Completar el formulario de crowdfunding
-- Conectar con Metamask
-- Firmar el contrato
+Posíble uses smart contracts to ensure transparency and reliability in the management of donated funds. Donors can choose which students they wish to support and follow the progress of their studies through the platform. By providing a way to obtain funds for education, PoSÍble helps to ensure that students have the opportunities and support they need to succeed in their careers.
 
-## Librerías
+## Project Repository
+- [Github](https://github.com/Redf0xD/poSIble)
+- [Deployment](https://posible-eth.vercel.app/)
+
+## App Operation
+- Complete the crowdfunding form
+- Connect with Metamask
+- Sign the contract
+
+## Libraries
 - React.JS
 - Web3.js
 - Vite
