@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-description: "Portafolio"
+description: "Portfolio"
 
 cascade:
   showEdit: false
