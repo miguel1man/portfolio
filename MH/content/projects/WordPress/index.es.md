@@ -1,12 +1,11 @@
 ---
-title: "Páginas web desarrolladas con WordPress"
+title: "Proyectos como freelance"
 date: 2022-08-31
-description: "Websites developed with WordPress"
-summary: "Websites developed with WordPress"
+description: "Páginas web desarrolladas con WordPress."
 tags: ["WordPress", "Elementor", "Shopify"]
 ---
 
-## Websites developed with WordPress and Elementor
+## Páginas desarrolladas con WordPress y Elementor
 - [Nautilus](https://nautilus.com.pe/)
 - [Adthropologist](https://adthropologist.com/)
 - [Dale pecho y comidita](https://dalepechoycomidita.pe/)
@@ -14,12 +13,12 @@ tags: ["WordPress", "Elementor", "Shopify"]
 - [Vive](https://viveapp.net/)
 - [SBD](https://sbd.org.pe/)
 
-## Websites developed with WordPress templates
+## Páginas desarrolladas con plantilas de WordPress
 - [Marca Lima](https://marcalima.pe/)
 - [Rampage Beauty Store](https://rampagebeautystore.com/)
 
-## Websites edited on Shopify
+## Páginas editadas en Shopify
 - [Nocaut](https://www.nocautx.com/)
 
-## Method of work
-I started by talking to clients to define their needs and define the scope. Then, I coordinated with the UI/UX designers to create a design that met the client's requirements. After that, I developed the websites with WordPress, Elementor Pro, and widgets using HTML, CSS, and JS. The pages are optimized for desktop and mobile. Finally, I provided training to the client so they could effectively manage their website.
+## Metodología de trabajo
+Me encargaba de conversar con los clientes para definir sus necesidades y coordinar con los diseñadores UI/UX para crear un diseño que cumpliera con sus requisitos. Después, desarrollaba las páginas web con WordPress y los widgets con HTML, CSS y JS. Finalmente brindaba capacitación al cliente para que pudiera administrar su sitio web de manera efectiva.

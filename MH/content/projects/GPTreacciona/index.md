@@ -2,7 +2,6 @@
 title: "GPT reacciona"
 date: 2023-01-31
 description: "AI reacts with relevant gifs"
-summary: "AI reaction to text with relevant gifs"
 tags: ["AI", "React", "JavaScript", "CSS", "API"]
 showDateUpdated: true
 xml: false
@@ -16,11 +15,11 @@ cascade:
 
 Use the Open AI API for natural language processing and the Giphy API to find a relevant gif response to a text input, providing a unique and entertaining user experience.
 
-[API](https://openai.com/api/)
-
 ## "Open AI" API for NLP
 
 The Open AI API is used to analyze the text input from the user, determining sentiment and context for finding the appropriate gif response.
+
+[API](https://openai.com/api/)
 
 ## "Giphy" API Search
 
