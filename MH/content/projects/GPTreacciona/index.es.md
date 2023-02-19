@@ -1,7 +1,7 @@
 ---
 title: "GPT reacciona"
 date: 2023-01-31
-description: "ChatGPT reacciona con gifs."
+summary: "ChatGPT reacciona con gifs."
 tags: ["AI", "React", "JavaScript", "CSS", "API"]
 showDateUpdated: true
 xml: false

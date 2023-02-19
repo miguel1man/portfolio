@@ -1,7 +1,6 @@
 ---
 title: "Websites developed with WordPress"
 date: 2022-08-31
-description: "Websites developed with WordPress"
 summary: "Websites developed with WordPress"
 tags: ["WordPress", "Elementor", "Shopify"]
 ---

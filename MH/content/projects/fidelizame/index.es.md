@@ -1,7 +1,7 @@
 ---
 title: "Fidelízame"
 date: 2022-10-29
-description: "Proyecto ganador de hackathon."
+summary: "Proyecto ganador de hackathon."
 tags: ["Hackathon", "TypeScript", "Solidity", "dApp", "React"]
 showDateUpdated: true
 xml: false
