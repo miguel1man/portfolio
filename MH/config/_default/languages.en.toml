@@ -1,8 +1,8 @@
-languageCode = "es"
-languageName = "Spanish"
-displayName = ":flag-pe:"
-isoCode = "es"
-weight = 2
+languageCode = "en"
+languageName = "English"
+displayName = ":flag-uk:"
+isoCode = "en"
+weight = 1
 rtl = false
 
 title = "MH"

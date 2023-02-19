@@ -3,7 +3,7 @@
 # https://jpanther.github.io/congo/docs/getting-started/
 
 theme = "fire"
-defaultContentLanguage = "es"
+defaultContentLanguage = "en"
 
 enableRobotsTXT = true
 paginate = 15
