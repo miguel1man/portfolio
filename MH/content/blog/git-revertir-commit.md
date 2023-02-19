@@ -25,9 +25,7 @@ git commit -m "Regresar a un commit anterior"
 git push
 ```
 
-[[git]]
-
-[git](git)
+[git](blog/git)
 
 ---
 
