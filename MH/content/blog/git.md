@@ -6,7 +6,7 @@ description: "Comandos de Git."
 
 ## Post 0
 
-[git](blog/git-revertir-commit)
+[git](/blog/git-revertir-commit)
 
 ---
 

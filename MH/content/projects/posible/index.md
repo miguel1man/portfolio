@@ -1,7 +1,7 @@
 ---
 title: "poSíble"
 date: 2022-09-13
-summary: "Final Project for Platzi and Ethereum Foundation."
+summary: "Project for Platzi and Ethereum Foundation."
 tags: ["Platzi", "Solidity", "Crowdfunding", "React"]
 ---
 
