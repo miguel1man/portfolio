@@ -1,5 +1,5 @@
 ---
-title: "Proyectos como freelance"
+title: "Proyectos freelance"
 date: 2022-08-31
 summary: "Páginas web desarrolladas con WordPress."
 tags: ["WordPress", "Elementor", "Shopify"]

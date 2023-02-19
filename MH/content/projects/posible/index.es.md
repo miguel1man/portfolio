@@ -6,7 +6,7 @@ tags: ["Platzi", "Solidity", "Crowdfunding", "React"]
 ---
 
 ## Proyecto final para Platzi y Ethereum Foundation
-- ["Ethereum Developer Program" by Platzi](https://platzi.com/blog/inicia-el-ethereum-developer-program-en-platzi/)
+- ["Ethereum Developer Program" de Platzi](https://platzi.com/blog/inicia-el-ethereum-developer-program-en-platzi/)
 
 ## Objetivo
 
@@ -21,9 +21,9 @@ PoSÍble utiliza "contratos inteligentes" para asegurar la transparencia y confi
 - [Deploy](https://posible-eth.vercel.app/)
 
 ## Uso de la app
-- Completar el formulario de donación.
-- Conectar con la billetera Metamask.
-- Firmar el contrato inteligente.
+1. Completar el formulario de donación.
+2. Conectar con la billetera Metamask.
+3. Firmar el contrato inteligente.
 
 ## Librerías
 - React.JS

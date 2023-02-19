@@ -1,7 +1,7 @@
 ---
 title: "GPT reacciona"
 date: 2023-01-31
-summary: "AI reacts with relevant gifs"
+summary: "AI reacts with relevant gifs."
 tags: ["AI", "React", "JavaScript", "CSS", "API"]
 showDateUpdated: true
 xml: false

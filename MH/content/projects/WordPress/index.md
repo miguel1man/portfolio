@@ -1,7 +1,7 @@
 ---
-title: "Websites developed with WordPress"
+title: "Freelance projects"
 date: 2022-08-31
-summary: "Websites developed with WordPress"
+summary: "Websites developed with WordPress."
 tags: ["WordPress", "Elementor", "Shopify"]
 ---
 

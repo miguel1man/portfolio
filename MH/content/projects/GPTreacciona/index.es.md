@@ -15,13 +15,13 @@ cascade:
 
 Utilizar inteligencia artificial para entender el lenguaje natural de las personas y reaccionar con un gif gracioso.
 
-## "Open AI" API for NLP
+## API de Open AI
 
 La API de Open AI se utiliza para analizar el texto escrito por el usuario y escoger palabras claves que se utilizarán para buscar gifs en Giphy.
 
 [API](https://openai.com/api/)
 
-## "Giphy" API Search
+## API de Giphy
 
 La API de Giphy se utiliza para buscar 3 gifs adecuados al contexto de lo escrito por el usuario. Los gifs son los 3 más populares en la categoría seleccionada por ChatGPT.
 
