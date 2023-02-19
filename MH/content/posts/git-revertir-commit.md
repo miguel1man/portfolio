@@ -1,7 +1,7 @@
 ---
 title: "Git - Revertir commit"
 date: 2023-01-10
-description: "This is a demo of adding content to the homepage."
+description: "Comandos de Git para revertir cambios a un commit previo."
 ---
 
 ## Post 1
@@ -24,6 +24,10 @@ git add .
 git commit -m "Regresar a un commit anterior"  
 git push
 ```
+
+[[git]]
+
+[git](git)
 
 ---
 
