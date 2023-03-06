@@ -4,7 +4,7 @@ date: 2023-01-10
 description: "Comandos de Git para revertir cambios a un commit previo."
 ---
 
-## Post 1
+## ¿Cómo revertir a un commit anterior en Git?
 
 Descripción del post 1.
 
@@ -24,6 +24,8 @@ git add .
 git commit -m "Regresar a un commit anterior"  
 git push
 ```
+
+***
 
 [git](/blog/git)
 

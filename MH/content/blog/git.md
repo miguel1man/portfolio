@@ -4,9 +4,9 @@ date: 2023-01-10
 description: "Comandos de Git."
 ---
 
-## Post 0
+## Notas sobre Git
 
-[git](/blog/git-revertir-commit)
+- [¿Cómo revertir a un commit anterior en Git?](/blog/git-revertir-commit)
 
 ---
 

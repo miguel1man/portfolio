@@ -11,6 +11,11 @@ cascade:
   showSummary: true
 ---
 
+## Links
+
+- [gptreacciona.vercel.app](https://gptreacciona.vercel.app/)
+- [Repository](https://github.com/miguel1man/chatGPT-Gifs)
+
 ## Project Objective
 
 Use the Open AI API for natural language processing and the Giphy API to find a relevant gif response to a text input, providing a unique and entertaining user experience.
@@ -29,7 +34,6 @@ The Giphy API is used to search for the perfect gif based on the analyzed text i
 
 ## Project Repository
 - [Github](https://github.com/miguel1man/chatGPT-Gifs)
-- [Deployment](https://gptreacciona.vercel.app/)
 
 ## Libraries 
 - Next.js

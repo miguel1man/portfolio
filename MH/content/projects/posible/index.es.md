@@ -5,7 +5,9 @@ summary: "Proyecto para Platzi y Ethereum Foundation."
 tags: ["Platzi", "Solidity", "Crowdfunding", "React"]
 ---
 
-## Proyecto final para Platzi y Ethereum Foundation
+## Enlaces
+- [posible-eth.vercel.app](https://posible-eth.vercel.app/)
+- [Repositorio](https://github.com/Redf0xD/poSIble)
 - ["Ethereum Developer Program" de Platzi](https://platzi.com/blog/inicia-el-ethereum-developer-program-en-platzi/)
 
 ## Objetivo
@@ -15,10 +17,6 @@ Después de la pandemia, miles de estudiantes dejaron sus estudios superiores po
 ## Solución propuesta
 
 PoSÍble utiliza "contratos inteligentes" para asegurar la transparencia y confianza en la administración de los fondos donados. Los donantes pueden elegir los estudiantes a los que desean apoyar y seguir el progreso de sus estudios.
-
-## Enlaces
-- [Repositorio en Github](https://github.com/Redf0xD/poSIble)
-- [Deploy](https://posible-eth.vercel.app/)
 
 ## Uso de la app
 1. Completar el formulario de donación.

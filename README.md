@@ -1,10 +1,10 @@
-# Portafolio
+# Portfolio
 
-Página estática con [Hugo](https://gohugo.io) y tema [Congo](https://jpanther.github.io/congo/docs/)
+Static site generation with [Hugo](https://gohugo.io) and theme with [Congo](https://jpanther.github.io/congo/docs/).
 
-## Instalación en local
-- Instalar Hugo
-- Ejecutar el comando `hugo server`.
+## Installing Local
+- Install Hugo
+- run `hugo server`.
 
 ## Deploy
-- [Publicado con Cloudflare pages](https://miguelhuaman.com/)
+- [Publish on Cloudflare pages](https://miguelhuaman.com/)
